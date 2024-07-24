@@ -1,0 +1,4 @@
+//job boards
+npx create-react-app job-board-app
+cd job-board-app
+npm install react-router-dom axios react-hook-form
